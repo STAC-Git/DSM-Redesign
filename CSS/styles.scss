@@ -10,6 +10,8 @@ $color-black: #000000;
 $body-font: "Roboto", sans-serif;
 $header-font: "Roboto", sans-serif;
 
+
+
 body {
     font-family: $body-font;
     padding: 50px;
@@ -57,3 +59,8 @@ header h2 {
 .navbar-collapse{ justify-content: flex-end;}
 
 .navbar-toggler{  background:#F48A30 !important;}
+
+.accordion {
+    $accordion-color: #000000;
+    $accordion-bg: #000000;
+}
